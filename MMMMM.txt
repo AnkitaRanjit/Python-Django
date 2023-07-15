@@ -1,0 +1,26 @@
+django-revision-interview questions
+flask--flask api
+django rest api--authentoicaation, permission classes----1
+orm----2
+git-----unit testing----python--django--3
+mysql-database-quries----4
+project-flow-challange faced-rolls -responcibility--6
+
+
+
+Leetcode-programms===5
+python revision--oops revision====5
+
+
+AWS
+CICD
+DOCKER
+
+
+
+
+Microservices:
+
+
+
+
