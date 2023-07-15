@@ -1,7 +1,7 @@
 django-revision-interview questions
 flask--flask api
 django rest api--authentoicaation, permission classes----1
-orm----2
+orm----4
 git-----unit testing----python--django--3
 mysql-database-quries----4
 project-flow-challange faced-rolls -responcibility--6
