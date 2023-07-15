@@ -3,7 +3,7 @@ flask--flask api
 django rest api--authentoicaation, permission classes----1
 orm----4
 git-----unit testing----python--django--3
-mysql-database-quries----4
+mysql-database-quries----44
 project-flow-challange faced-rolls -responcibility--6
 
 
